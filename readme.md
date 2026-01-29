@@ -1,6 +1,7 @@
 # PDF to Speech - Android
 
 Simple Android app to convert PDF documents to MP3 audio files using Microsoft Azure's Text-to-Speech with Andrew's voice.
+(Andrew's voice because I think it's the most New York podcast-coded voice, easier to listen to, you can just change it in the code yourself before building)
 
 ## Screenshots
 
